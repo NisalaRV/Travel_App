@@ -28,7 +28,7 @@ export default function Layout() {
       />
   
       <Tabs.Screen
-        name="search"
+        name="map"
         options={{
           tabBarIcon: ({ color }) => (
             <View
@@ -46,7 +46,7 @@ export default function Layout() {
         }}
       />
       <Tabs.Screen
-        name="bookmarks"
+        name="favourite"
         options={{
           tabBarIcon: ({ color }) => (
             <Ionicons name="heart" size={28} color={color} />
