@@ -57,11 +57,13 @@ const Page = () => {
                 shadowRadius: 3,
               }}
             >
+              
               <Ionicons name="notifications" size={20} color={Colors.black} />
             </TouchableOpacity>
           ),
         }}
       />
+      
       <View style={[styles.container, { paddingTop: headerHeight }]}>
         <ScrollView showsVerticalScrollIndicator={false}>
           <Text style={styles.headingTxt}>Welcome To Srilanka</Text>

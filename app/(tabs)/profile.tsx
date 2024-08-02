@@ -14,7 +14,7 @@ const Page = () => {
       <Text style={styles.timeText}>4 minutes ago</Text>
 
       <View style={styles.buttonsContainer}>
-        <TouchableOpacity style={styles.button}>
+        <TouchableOpacity style={styles.button} >
           <Ionicons name="pencil" size={24} color="#4CAF50" />
           <Text style={styles.buttonText}>Edit Profile</Text>
         </TouchableOpacity>

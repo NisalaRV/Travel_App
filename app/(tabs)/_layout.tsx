@@ -61,6 +61,13 @@ export default function Layout() {
           ),
         }}
       />
+        <Tabs.Screen
+        name="ProfileScreen"
+      />
+      
     </Tabs>
+
+    
+    
   );
 }

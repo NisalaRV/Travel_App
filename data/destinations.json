@@ -30,5 +30,27 @@
     "duration": "2",
     "location": "Ella",
     "category": "Cities"
-  }
+  },
+  {
+    "id": "4",
+    "name": "Marble Beach",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipOO28UuITmI0F8qmxjcs14OXlyg-_VVgDMYNedD=w252-h168-k-no",
+    "description": "A place that is considered amongst the top beaches in the world.",
+    "rating": 4.7,
+    "price": "140",
+    "duration": "2",
+    "location": "Eastern Province",
+    "category": "Cities"
+  },
+  {
+    "id": "5",
+    "name": "Yapahuwa Ancient Kingdom",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/63/86/fa/yapahuwa-ancient-kingdom.jpg?w=1200&h=-1&s=1",
+    "description": "Yapahuwa (Sinhalese language : යාපහුව) was one of the ephemeral capitals of medieval Sri Lanka. The citadel of Yapahuwa lying midway between Kurunagala and Anuradhapura was built around a huge granite rock rising abruptly almost a hundred meters above the surrounding lowlands.",
+    "rating": 4.7,
+    "price": "140",
+    "duration": "2",
+    "location": "North Western Province",
+    "category": "Cities"
+  },
 ]
